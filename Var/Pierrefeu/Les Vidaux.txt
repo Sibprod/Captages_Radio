@@ -1,0 +1,57 @@
+Commune : Pierrefeu-du-Var (83390)
+Site : Les Vidaux - Parking D13
+Date de mesure : 01/11/2022
+Altitude : 96 mètres
+
+--- Liste des Radios FM ---
+87,60 RTL
+87,90 BFM
+88,30 Mistral FM 
+89,00 Skyrock
+89,40 Radio Orient
+89,80 RFM
+90,30 M Radio
+90,50 France Musique
+90,80 TSF Jazz
+91,40 France Inter
+92,00 France Inter 
+92,20 France Musique 
+92,40 Mistral FM
+92,70 France Inter
+93,10 Fun Radio
+93,50 Nostalgie 
+93,70 Nostalgie
+94,30 France Musique
+94,90 France Musique
+95,20 NRJ
+95,80 Virgin Radio
+96,60 NRJ
+97,10 France Culture
+97,70 France Culture
+97,80 Kiss FM 
+98,20 Beur FM
+98,50 RMC
+98,80 Rire & Chansons
+99,20 France Culture 
+100,00 Radio Active
+100,20 France Inter 
+100,40 RTL
+100,90 Gapeau FM
+101,20 France Bleu Provence
+101,60 Kiss FM
+101,90 France Culture
+102,10 France Bleu Provence
+102,30 France Bleu Provence
+102,70 Radio Classique
+102,90 France Bleu Provence
+103,80 France Bleu Azur
+104,00 France Culture
+105,50 France Musique
+105,70 France Info 
+105,80 France Info
+106,20 RTL 2
+106,70 France Inter
+107,70 Radio Vinci Autoroutes 
+--- Liste des Radios DAB ---
+Canal 9A (Toulon - 83)
+Canal 11C (Toulon - 83)
