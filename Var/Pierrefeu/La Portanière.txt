@@ -48,7 +48,7 @@ Altitude : 81 mètres
 100,90 Gapeau FM (Toulon,83 / Solliès-Pont - Château d'Eau)
 101,20 France Bleu Provence (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
 101,40 RTL (Marseille,13 / Simiane - La Grande Étoile)
-101,60 Kiss FM
+101,60 Kiss FM (Marseille,13 / Cassis - Baou de la Saoupe)
 101,90 France Culture (Nice,06 / Aspremont - Fort du Mont Chauve)
 102,10 France Bleu Provence (Brignoles,83 / La Roquebrussanne - Montagne de la Loube)
 102,30 France Bleu Provence (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
