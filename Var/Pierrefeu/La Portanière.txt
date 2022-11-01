@@ -3,67 +3,74 @@ Site : La Portanière - Arrêt des cars
 Date de mesure : 01/11/2022
 Altitude : 81 mètres
 
-Liste des radios FM
+--- Liste des radios FM ---
 
-87,90 BFM
-88,60 Top FM
-88,70 France Culture 
-89,40 Radio Orient
-89,80 RFM
-90,20 Radio Star
-90,50 France Musique
-90,80 TSF Jazz
-91,30 France Inter 
-91,40 France Inter
-91,60 France Inter
-92,00 France Inter
-92,20 France Musique
-92,40 Mistral FM
-92,70 France Inter
-93,10 Fun Radio
-93,70 Nostalgie
-94,20 France Musique 
-94,30 France Musique
-94,50 France Musique 
-94,90 France Musique
-95,30 Chérie FM
-95,80 Virgin Radio
-96,30 France Inter 
-96,60 NRJ
-97,10 France Culture
-97,50 France Culture
-97,70 France Culture 
-98,20 Beur FM
-98,50 RMC 
-98,80 Rire & Chansons
-99,20 France Culture
-99,60 France Musique
-100,00 Radio Active
-100,20 France Inter 
-100,40 RTL
-100,70 France Bleu Azur
-100,90 Gapeau FM
-101,20 France Bleu Provence
-101,40 RTL 
+87,90 BFM (Toulon,83 / Six-Fours - Le Mai)
+88,60 Top FM (Toulon,83 / Bandol - Vallongue)
+88,70 France Culture (Draguignan,83 / Le Trayas - Pic de l'Ours)
+89,40 Radio Orient (Toulon,83 / Six-Fours - Le Mai)
+89,80 RFM (Toulon,83 / Six-Fours - Le Mai)
+90,20 Radio Star (Toulon,83 / Six-Fours - Le Mai)
+90,30 M Radio (Monaco,MC / Peille - Col de la Madone)
+90,50 France Musique (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
+90,80 TSF Jazz (Toulon,83 - Solliès-Ville - Chapelle Notre-Dame)
+91,30 France Inter (Marseille,13 / Simiane - La Grande Étoile)
+91,40 France Inter (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
+91,60 France Inter (Toulon,83 / Bormes - Cap Bénat)
+92,00 France Inter (Toulon,83 / Six-Fours - Le Mai)
+92,20 France Musique (Nice,06 / Aspremont - Fort du Mont Chauve)
+92,40 Mistral FM (Toulon,83 - Solliès-Ville - Chapelle Notre-Dame)
+92,70 France Inter (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
+93,10 Fun Radio (Toulon,83 / Six-Fours - Le Mai)
+93,50 Nostalgie (Monaco,MC / Peille - Col de la Madone)
+93,70 Nostalgie (Toulon,83 / Six-Fours - Le Mai)
+94,20 France Musique (Marseille,13 / Simiane - La Grande Étoile)
+94,30 France Musique (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
+94,50 France Musique (Toulon,83 / Bormes - Cap Bénat)
+94,90 France Musique (Toulon,83 / Six-Fours - Le Mai)
+95,30 Chérie FM (Toulon,83 / Six-Fours - Le Mai)
+95,80 Virgin Radio (Toulon,83 / Six-Fours - Le Mai)
+96,30 France Inter (Draguignan,83 / Le Trayas - Pic de l'Ours)
+96,60 NRJ (Toulon,83 / Six-Fours - Le Mai)
+97,10 France Culture (Toulon,83 / Six-Fours - Le Mai)
+97,50 France Culture (Toulon,83 / Bormes - Cap Bénat)
+97,70 France Culture (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
+98,20 Beur FM (Toulon,83 / Six-Fours - Le Mai)
+98,50 RMC (Monaco,MC / Peille - Col de la Madone)
+98,80 Rire & Chansons (Toulon,83 / Six-Fours - Le Mai)
+99,00 France Culture (Marseille,13 / Simiane - La Grande Étoile)
+99,20 France Culture (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
+99,60 France Musique (Draguignan,83 / Le Trayas - Pic de l'Ours)
+100,00 Radio Active (Toulon,83 / La Garde - Le Thouars)
+100,20 France Inter (Nice,06 / Aspremont - Fort du Mont Chauve)
+100,40 RTL (Toulon,83 / Six-Fours - Le Mai)
+100,70 France Bleu Azur (Draguignan,83 / Le Trayas - Pic de l'Ours)
+100,90 Gapeau FM (Toulon,83 / Solliès-Pont - Château d'Eau)
+101,20 France Bleu Provence (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
+101,40 RTL (Marseille,13 / Simiane - La Grande Étoile)
 101,60 Kiss FM
-101,90 France Culture 
-102,10 France Bleu Provence
-102,30 France Bleu Provence 
-102,50 France Bleu Provence
-102,90 France Bleu Provence
-103,80 France Bleu Azur
-104,00 France Culture
-104,70 Europe 1
-105,50 France Musique
-105,70 France Info
-105,80 France Info
-106,20 RTL 2
-106,60 M Radio
-106,70 France Inter
-107,10 France Info
-107,70 Radio Vinci Autoroutes 
+101,90 France Culture (Nice,06 / Aspremont - Fort du Mont Chauve)
+102,10 France Bleu Provence (Brignoles,83 / La Roquebrussanne - Montagne de la Loube)
+102,30 France Bleu Provence (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
+102,50 France Bleu Provence (Toulon,83 / Bormes - Cap Bénat)
+102,90 France Bleu Provence (Toulon,83 / Six-Fours - Le Mai)
+103,60 France Bleu Provence (Marseille,13 / Simiane - La Grande Étoile)
+103,80 France Bleu Azur (Nice,06 / Aspremont - Fort du Mont Chauve)
+104,00 France Culture (Brignoles,83 / La Roquebrussanne - Montagne de la Loube)
+104,70 Europe 1 (Toulon,83 / Six-Fours - Le Mai)
+105,50 France Musique (Brignoles,83 / La Roquebrussanne - Montagne de la Loube)
+105,70 France Info (Nice,06 / Aspremont - Fort du Mont Chauve)
+105,80 France Info (Toulon,83 / Six-Fours - Le Mai)
+106,20 RTL 2 (Toulon,83 / Six-Fours - Le Mai)
+106,60 M Radio (Toulon,83 / Six-Fours - Le Mai)
+106,70 France Inter (Brignoles,83 / La Roquebrussanne - Montagne de la Loube)
+107,10 France Info (Toulon,83 / Bormes - Cap Bénat)
+107,70 Radio Vinci Autoroutes (Toulon,83 / Cuers - Le Pouverel)
+
 --- Liste des radios DAB ---
-Canal 9A (Toulon)
-Canal 11C (Toulon)
+
+Canal 9A (Toulon,83 / Six-Fours - Le Mai)
+
+Canal 11C (Toulon,83 / Six-Fours - Le Mai)
 
 
