@@ -1,0 +1,175 @@
+Commune : Avignon (84140)
+Site : Montfavet - La Gare
+Date de mesure : 02/11/2022
+Altitude : 38 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,60 France Inter
+87,80 Radio Star
+88,10 Chérie FM
+88,30 Radio M
+88,40 RTL
+88,80 France Culture
+89,00 Virgin Radio
+89,30 Soleil FM
+89,50 Mix FM
+89,60 Rire & Chansons
+89,70 Radio Classique
+89,80 France Inter
+89,90 Fly FM
+90,00 Skyrock
+90,20 France Bleu Gard-Lozère
+90,30 Raje
+90,70 France Culture
+90,90 FIP
+91,10 Rire & Chansons
+91,30 France Inter
+91,60 France Bleu Gard-Lozère
+91,80 RTL
+92,20 Radio Nîmes
+92,50 Skyrock
+92,70 Nostalgie
+92,90 France Musique
+93,20 France Musique
+93,50 France Musique
+93,80 Fun Radio
+94,00 Fun Radio
+94,20 France Musique
+94,40 Radio Interval
+94,60 Radio Camargue
+94,90 Europe 1
+95,20 Sud Radio
+95,50 Rire & Chansons
+95,70 MTI
+95,90 RFM
+96,10 France Culture
+96,30 Soleil FM
+96,50 France Culture
+96,60 Chérie FM
+96,80 Mouv'
+96,90 Chérie FM
+97,00 3DFM
+97,10 Oüi FM
+97,40 France Inter
+97,60 France Inter
+97,80 France Culture
+98,00 Virgin Radio
+98,20 NRJ
+98,40
+98,60 France Musique
+98,80 France Bleu Vaucluse
+99,00 France Culture
+99,40 Radio Classique
+99,60 NRJ
+99,80 RFM
+100,40 France Bleu Vaucluse
+100,90 Radio Classique
+101,00 Radio Nova
+101,30 RMC
+101,60
+101,70 RTL 2
+102,10 Virgin Radio
+102,30 Virgin Radio
+102,40 Nostalgie
+102,80 Nostalgie
+103,30 Virgin Radio
+103,60 France Bleu Provence
+103,80 France Bleu Drôme-Ardèche
+104,00 RCF
+104,30 RMC
+104,50 RMC
+104,70 NRJ
+105,10 France Info
+105,20 France Info
+105,30 France Info
+105,60 TFM
+105,80 NRJ
+106,20 Rire & Chansons
+106,40 NRJ
+106,70 RTS
+107,00 RTL
+107,20 RTL
+107,40 Jazz Radio
+107,70 Radio Vinci Autoroutes
+107,90 Totem
+
+--- LISTE DES RADIOS DAB ---
+
+Canal 5B (Marseille,13)
+01 - France Bleu Provence
+02 - Chante France
+03 - Crooner Radio
+04 - D!ci Radio
+05 - Générations
+06 - Melody
+07 - Radio Orient
+08 - Radio Star
+09 - RCF Vaucluse
+11 - Sud Radio
+12 - Sunshine
+13 - Tac Tic Radio
+14 - Virage Radio
+Canal 5C (Avignon,84)
+01 - Aïoli Radio
+02 - Chérie FM Avignon
+03 - FG
+04 - France Maghreb 2
+05 - Fréquence Mistral
+06 - Nostalgie Avignon
+07 - NRJ Avignon
+08 - Radio Pitchoun
+09 - Raje
+10 - RTVFM
+11 - Ton!c Radio
+Canal 7A (Marseille,13)
+01 - Africa Radio
+02 - Beur FM
+03 - Capsao
+04 - Diva FM
+05 - Kiss FM
+06 - Maritima
+07 - Mistral FM
+08 - Radio Maria FR
+09 - Radio One
+10 - So Good Radio
+Canal 8A (Marseille,13)
+01 - ADO
+02 - Radio Émotion
+03 - Hello Provence
+04 - Inrocks Radio
+05 - Jazz Radio
+06 - Oüi FM
+07 - Radio Life
+08 - Radio Nova
+09 - Trace Radio
+10 - TSF Jazz
+Canal 9D (Avignon,84)
+01 - France Bleu Vaucluse
+Canal 10B (Metro 1)
+01 - AirZen Radio
+02 - Chérie FM
+03 - Fun Radio
+04 - Latina
+05 - M Radio
+06 - Nostalgie
+07 - NRJ
+08 - Radio Classique
+09 - Rire & Chansons
+10 - RTL
+11 - RTL 2
+12 - Skyrock
+13 - Skyrock Klassiks
+Canal 10C (Metro 2)
+01 - BFM Business
+02 - Europe 1
+02 - BFM 
+03 - FIP
+04 - France Culture
+05 - France Info
+06 - France Inter
+07 - France Musique
+08 - Mouv'
+09 - RMC
+10 - RFM
+11 - Virgin Radio
