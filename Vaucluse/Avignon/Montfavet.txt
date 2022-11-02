@@ -5,75 +5,76 @@ Altitude : 38 mètres
 
 --- LISTE DES RADIOS FM ---
 
-87,60 France Inter
-87,80 Radio Star
-88,10 Chérie FM
-88,30 Radio M
-88,40 RTL
-88,80 France Culture
-89,00 Virgin Radio
-89,30 Soleil FM
-89,50 Mix FM
-89,60 Rire & Chansons
-89,70 Radio Classique
-89,80 France Inter
-89,90 Fly FM
-90,00 Skyrock
-90,20 France Bleu Gard-Lozère
-90,30 Raje
-90,70 France Culture
-90,90 FIP
-91,10 Rire & Chansons
-91,30 France Inter
-91,60 France Bleu Gard-Lozère
-91,80 RTL
+87,60 France Inter (Alès,30 / Brouzet - Mont Bouquet)
+87,80 Radio Star (Carpentras,84 / Orange - Cabrières)
+88,10 Chérie FM (Avignon,84 / Villeneuve (30) - Cabrion)
+88,30 Radio M (Die,26)
+88,40 RTL (Nîmes,30 / Bagnols - Les Masses)
+88,80 France Culture (Saint-Étienne,42 / Doizieux - Crêt de l'Oeillon)
+89,00 Virgin Radio (Avignon,84 / Villeneuve (30) - Cabrion)
+89,30 Soleil FM (Die,26)
+89,50 Mix FM (Carpentras,84 / Orange - Piscine des Cèdres)
+89,60 Rire & Chansons (Apt,84 - Les Claparèdes)
+89,70 Radio Classique (Nîmes,30)
+89,90 Fly FM (Avignon,84 / Monteux)
+90,00 Skyrock (Marseille,13 / Septèmes - La Petite Étoile)
+90,20 France Bleu Gard-Lozère (Nîmes,30)
+90,30 Raje (Avignon,84 / Villeneuve (30) - Cabrion)
+90,70 France Culture (Carpentras,84 / Bédoin - Mont Ventoux)
+90,90 FIP (Marseille,13 / Septèmes - La Petite Étoile)
+91,10 Rire & Chansons (Carpentras,84 / Orange)
+91,30 France Inter (Marseille,13 / Simiane - La Grande Étoile)
+91,50 France Culture (Avignon,84 / Chabran)
+91,60 France Bleu Gard-Lozère (Alès,30 / Brouzet - Mont Bouquet)
+91,70 Skyrock (Apt,84 / Les Claparèdes)
+91,80 RTL (Carpentras,84 / Orange)
 92,20 Radio Nîmes
-92,50 Skyrock
+92,40 France Musique (Saint-Étienne,42 / Doizieux - Crêt de l'Oeillon)
+92,50 Skyrock (Avignon,84 / Villeneuve (30) - Cabrion)
 92,70 Nostalgie
-92,90 France Musique
-93,20 France Musique
-93,50 France Musique
-93,80 Fun Radio
-94,00 Fun Radio
-94,20 France Musique
-94,40 Radio Interval
-94,60 Radio Camargue
-94,90 Europe 1
-95,20 Sud Radio
-95,50 Rire & Chansons
-95,70 MTI
-95,90 RFM
-96,10 France Culture
-96,30 Soleil FM
-96,50 France Culture
-96,60 Chérie FM
-96,80 Mouv'
-96,90 Chérie FM
-97,00 3DFM
-97,10 Oüi FM
-97,40 France Inter
+92,90 France Musique (Lodève,34 / Montpeyroux - Mont Saint-Baudille)
+93,20 France Musique (Carpentras,84 / Bédoin - Mont Ventoux)
+93,50 France Musique (Avignon,84 / Chabran)
+93,80 Fun Radio (Carpentras,84)
+94,00 Fun Radio (Avignon,84)
+94,20 France Musique (Marseille,13)
+94,40 Radio Interval (Alès,30)
+94,60 Radio Camargue (Arles,13 / Saint-Rémy - Mont de la Caume)
+94,90 Europe 1 (Avignon,84 / Villeneuve (30) - Cabrion)
+95,20 Sud Radio (Arles,13 / Saint-Rémy - Mont de la Caume)
+95,50 Rire & Chansons (Marseille,13)
+95,70 MTI (Aubenas,07 / Bourg-Saint-Andéol)
+95,90 RFM (Avignon,84 / Cavaillon - Colline Saint-Jacques)
+96,10 France Culture (Alès,30)
+96,30 Soleil FM (Arles,13 / Saint-Rémy - Mont de la Caume)
+96,60 Chérie FM (Nîmes,30)
+96,80 Mouv' (Marseille,13)
+96,90 Chérie FM 
+97,00 3DFM (Nîmes,30 / Beaucaire - Le Sizun)
+97,10 Oüi FM (
+97,40 France Inter (Carpentras,84 / Bédoin - Mont Ventoux)
 97,60 France Inter
-97,80 France Culture
+97,80 France Culture (Lodève,34 / Montpeyroux - Mont Saint-Baudille)
 98,00 Virgin Radio
-98,20 NRJ
+98,20 NRJ (Avignon,84 / Villeneuve (30) - Cabrion)
 98,40
 98,60 France Musique
-98,80 France Bleu Vaucluse
-99,00 France Culture
+98,80 France Bleu Vaucluse 
+99,00 France Culture (Marseille,13 / Simiane - La Grande Étoile)
 99,40 Radio Classique
 99,60 NRJ
 99,80 RFM
-100,40 France Bleu Vaucluse
-100,90 Radio Classique
-101,00 Radio Nova
-101,30 RMC
-101,60
-101,70 RTL 2
+100,40 France Bleu Vaucluse (Carpentras,84 / Bédoin - Mont Ventoux)
+100,90 Radio Classique (Marseille,13)
+101,00 Radio Nova (Carpentras,84 / Bédoin - Mont Ventoux) 
+101,30 RMC 
+101,70 RTL 2 (Arles,13 / Saint-Rémy - Mont de la Caume)
 102,10 Virgin Radio
 102,30 Virgin Radio
 102,40 Nostalgie
 102,80 Nostalgie
-103,30 Virgin Radio
+103,30 Virgin Radio (Carpentras,84 / Gigondas - Les Plâtrières)
+103,40 France Info (Saint-Étienne,42 / Doizieux - Crêt de l'Oeillon)
 103,60 France Bleu Provence
 103,80 France Bleu Drôme-Ardèche
 104,00 RCF
