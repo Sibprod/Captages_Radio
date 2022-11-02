@@ -5,36 +5,36 @@ Altitude : 72 mètres
 
 --- Liste des radios FM ---
 
-87,60 RTL
-87,90 BFM
-88,30 Mistral FM
-88,70 France Culture
-89,20 RFM 
-89,40 Radio Orient
-89,80 RFM
-90,00 Skyrock 
-90,20 Radio Star
-90,30 M Radio 
-90,50 France Musique
-90,80 TSF Jazz
-91,00 RCF
-91,20 Virgin Radio
-91,30 France Inter 
-91,40 France Inter 
-91,60 France Inter 
-92,00 France Inter 
-92,20 France Musique 
-92,40 Mistral FM 
-92,70 France Inter 
-93,10 Fun Radio
-93,50 Nostalgie
-93,70 Nostalgie
-94,20 France Musique 
-94,30 France Musique
-94,50 France Musique 
-94,90 France Musique 
-95,20 NRJ 
-95,30 Chérie FM
+87,60 RTL (Draguignan,83 / Le Malmont)
+87,90 BFM (Toulon,83 / Six-Fours - Le Mai)
+88,30 Mistral FM (Toulon,83 / Bormes - Cap Bénat)
+88,70 France Culture (Draguignan,83 / Le Trayas - Pic de l'Ours)
+89,20 RFM (Marseille,13 / Simiane - La Grande Étoile) 
+89,40 Radio Orient (Toulon,83 / Six-Fours - Le Mai)
+89,80 RFM (Toulon,83 / Six-Fours - Le Mai)
+90,00 Skyrock (Marseille,13 / Septèmes - La Petite Étoile)
+90,20 Radio Star (Toulon,83 / Six-Fours - Le Mai)
+90,30 M Radio (Monaco,MC / Peille - Col de la Madone)
+90,50 France Musique (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
+90,80 TSF Jazz (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
+91,00 RCF (Draguignan,83 / Le Malmont)
+91,20 Virgin Radio (Draguignan,83 / Le Plan-de-la-Tour - San Peyre)
+91,30 France Inter (Marseille,13 / Simiane - La Grande Étoile)
+91,40 France Inter (Toulon,83 / Solliès-Ville - Chapelle Notre-Dame)
+91,60 France Inter (Toulon,83 / Bormes - Cap Bénat)
+92,00 France Inter (Toulon,83 / Six-Fours - Le Mai)
+92,20 France Musique (Nice,06 / Aspremont - Fort du Mont Chauve)
+92,40 Mistral FM (Toulon,83 / Solliès-Ville, Chapelle Notre-Dame)
+92,70 France Inter (Brignoles,83 / Gonfaron - Notre-Dame-des-Anges)
+93,10 Fun Radio (Toulon,83 / Six-Fours - Le Mai)
+93,50 Nostalgie (Monaco,MC / Peille - Col de la Madone)
+93,70 Nostalgie (Toulon,83 / Six-Fours - Le Mai)
+94,20 France Musique (Marseille,13 / Simiane - La Grande Étoile)
+94,30 France Musique (Toulon,83 / Solliès-Ville, Chapelle Notre-Dame)
+94,50 France Musique (Toulon,83 / Bormes - Cap Bénat)
+94,90 France Musique (Toulon,83 / Six-Fours - Le Mai)
+95,20 NRJ (Draguignan,83 / Le Malmont)
+95,30 Chérie FM 
 95,40 Radio Monaco
 95,60 NRJ 
 95,80 Virgin Radio 
@@ -84,9 +84,13 @@ Altitude : 72 mètres
 107,70 Radio Vinci Autoroutes 
 --- Liste des radios DAB ---
 Canal 6C (Monaco MCR4 - MC)
+
 Canal 8A (Monaco MCR1 - MC)
+
 Canal 9A (Toulon - 83)
+
 Canal 11C (Toulon - 83)
+
 Canal 12B (Monaco MCR2 - MC) 
 
 
