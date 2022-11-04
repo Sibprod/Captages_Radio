@@ -5,7 +5,83 @@ Altitude :
 
 --- LISTE DES RADIOS FM ---
 
-
+87,70 Radio Soleil
+88,10 Radio Zinzine
+88,40 Radio Galère
+88,80 Radio Grenouille
+89,20 RFM
+89,60 RCF
+90,00 Skyrock
+90,50 Radio JM
+90,70 France Culture 
+90,90 FIP
+91,30 France Inter
+91,50 France Inter 
+91,70 France Inter
+92,00 M Radio 
+92,30 Radio Star
+92,60 Beur FM
+92,80 Jazz Radio
+93,00 France Inter 
+93,20 France Musique
+93,40 M Radio
+93,80 France Maghreb 2
+94,20 France Musique
+94,50 France Musique 
+94,70 France Musique
+94,90 France Musique 
+95,10 Sud Radio
+95,50 Rire & Chansons
+96,00 Nostalgie
+96,40 Mouv'
+96,80 Mouv'
+97,10 France Culture 
+97,20 France Culture 
+97,40 France Inter 
+97,60 United Radio
+98,00 Radio Gazelle
+98,30 Nostalgie 
+98,60 France Culture 
+99,00 France Culture 
+99,50 Fun Radio 
+99,70 Fun Radio 
+100,10 Chérie FM
+100,40 France Bleu Vaucluse 
+100,50 FG
+100,90 Radio Classique
+101,40 RTL
+101,60 Kiss FM 
+101,70 France Bleu Provence 
+101,80 Diva FM
+101,90 RCF 
+102,00 France Culture 
+102,10 France Bleu Provence 
+102,30 Virgin Radio 
+102,70 France Bleu Provence
+102,90 France Bleu Provence 
+103,10 BFM
+103,60 France Bleu Provence
+103,80 France Bleu Provence 
+104,00 France Culture 
+104,30 RMC
+104,80 Europe 1
+105,10 France Info 
+105,30 France Info
+105,50 France Musique 
+105,70 Radio Nova
+106,00 Mistral FM
+106,40 NRJ
+106,70 France Inter 
+106,80 RTL 2 
+107,20 Maritima
+107,70 Radio Vinci Autoroutes 
 
 --- LISTE DES RADIOS DAB ---
 
+Canal 5B (Marseille,13)
+Canal 7A (Marseille,13)
+Canal 7C (Marseille,13 | Métro 1)
+Canal 8A (Marseille,13)
+Canal 8B (Marseille,13 | Métro 2)
+Canal 8C (SDN)
+Canal 8D (Marseille,13)
