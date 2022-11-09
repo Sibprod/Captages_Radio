@@ -1,0 +1,76 @@
+Commune : Brignoles (83170)
+Site : Gare SNCF
+Date de mesure : 09/11/2022
+Altitude : 218 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,60 RTL
+88,20 Métropole Radio
+88,30 Métropole Radio
+88,70 France Culture 
+88,90 Radio Sainte-Baume
+89,20 RFM
+90,50 France Musique
+90,60 Médi 1
+90,70 France Culture
+90,70 RAI Uno
+90,90 Kiss FM
+90,90 FIP 
+91,00 RCF
+91,30 France Inter 
+92,00 France Inter
+92,20 France Musique
+92,70 France Inter
+92,80 Jazz Radio 
+93,00 France Inter 
+93,20 France Musique 
+93,50 Nostalgie
+93,90 Europe 1
+94,80 France Musique
+94,90 France Musique 
+95,20 NRJ 
+95,40 Radio Monaco 
+96,00 NRJ
+96,10 FG
+96,30 France Inter 
+96,50 Radio Verdon
+97,10 France Culture 
+97,20 France Musique 
+97,40 France Inter 
+97,80 Kiss FM 
+98,50 RMC
+99,20 France Culture
+99,60 France Musique 
+99,70 Fun Radio
+99,90 Europe 1
+100,20 France Inter
+100,70 France Bleu Azur 
+101,40 RTL
+101,60 Fun Radio
+102,10 France Bleu Provence
+102,30 Virgin Radio 
+102,70 Radio Classique 
+102,90 France Bleu Provence 
+103,00 RFM
+103,60 France Bleu Provence
+103,80 France Bleu Azur 
+104,00 France Culture 
+104,40 RMC
+104,80 Europe 1
+105,20 Virgin Radio 
+105,50 France Musique
+105,70 France Info
+105,90 France Info
+106,50 Riviera Radio
+106,70 France Inter
+107,30 Skyrock
+107,70 Radio Vinci Autoroutes 
+
+--- LISTE DES RADIOS DAB --- 
+
+Canal 6C (Monaco,MC | MCR4)
+Canal 7C (Marseille,13 | Métro 1)
+Canal 8A (Monaco,MC | MCR1)
+Canal 9A (Brignoles,83)
+Canal 12B (Monaco,MC | MCR2)
