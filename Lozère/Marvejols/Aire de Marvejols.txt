@@ -1,0 +1,50 @@
+Commune : Marvejols (48100)
+Site : A75 - Aire de Marvejols
+Date de mesure : 11/11/2022
+Altitude : 796 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,60 M Radio
+87,80 France Culture
+88,50 France Inter
+89,20 France Culture
+89,60 RTL
+90,10 France Inter
+90,50 Radio Interval
+91,00 Radio Lengadoc
+91,20 Radio Margeride
+91,50 France Musique
+92,20 NRJ
+92,50 France Musique
+92,90 Totem
+93,30 Fun Radio
+93,70 France Musique
+94,10 48 FM
+94,70 Fun Radio
+95,10 France Inter
+95,30 France Culture
+95,70 Radio Interval
+96,50 Skyrock
+96,90 France Culture
+97,30 RFM
+97,70 Nostalgie
+97,90 RCF Lozère
+98,90 NRJ
+99,90 RCF Lozère
+100,30 Nostalgie
+101,30 France Bleu Gard-Lozère
+101,60 France Bleu Gard-Lozère
+101,90 Sud Radio
+102,20 France Bleu Gard-Lozère
+102,40 RMC
+102,90 Radio Margeride
+104,20 RMC
+104,90 France Bleu Gard-Lozère
+105,30 France Info
+105,90 RFM
+106,30 Totem
+106,70 Europe 1
+107,00 Radio Bartas
+107,20 Mouv'
+107,90 Rire & Chansons
