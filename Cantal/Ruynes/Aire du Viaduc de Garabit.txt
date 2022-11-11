@@ -1,0 +1,44 @@
+Commune : Ruynes-en-Margeride 
+Site : A75 - Aire du Viaduc de Garabit
+Date : 11/11/2022
+Altitude : 834 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,80 France Culture
+88,30 RCF Cantal
+88,70 RFM
+89,30 France Culture
+89,90 Virgin Radio
+90,10 France Inter
+90,30 France Inter
+91,10 France Musique
+91,30 France Musique 
+91,60 
+91,80 M Radio
+92,80 
+93,00 France Inter
+93,70 France Musique
+94,00 RTL 2
+95,80 France Inter
+96,20 Radio Zema
+96,50 Skyrock
+96,90 France Culture
+97,60 France Inter
+98,10 NRJ
+98,50 Radio Margeride
+99,90
+100,10 France Bleu Auvergne
+100,90 
+101,60 Fun Radio
+101,90 Radio PAC
+102,10 M Radio
+102,70 Europe 1
+104,20 RMC 
+104,60 RMC 
+104,90 France Bleu Gard-Lozère
+105,90 
+106,30 Totem
+106,80 RMC
+107,10 RTL
+107,50 Fun Radio 
