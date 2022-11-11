@@ -1,0 +1,42 @@
+Commune : Millau (12200)
+Site : Aire de Brocuéjols - Viaduc de Millau
+Date de mesure : 11/11/2022
+Altitude : 568 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,80 Radio Larzac
+88,90 France Musique
+89,60 RTL
+90,10 France Inter
+90,60 M Radio
+92,30 France Musique
+93,50 Totem
+94,00 Radio Ménergy
+94,90 France Inter
+95,50 NRJ
+96,10 France Culture
+96,90 France Culture
+97,60 France Inter
+98,10 France Inter 
+99,20 France Culture
+100,10 Fun Radio
+100,60 Radio Saint-Affrique
+101,40 Sud Radio
+102,00 Nostalgie
+102,40 Skyrock
+102,70 Totem
+102,80 Nostalgie 
+104,00 RFM
+104,50 RMC
+105,00 France Bleu Hérault
+105,40 France Info
+105,80 France Info
+106,10 Radio Lengadoc
+106,30 Totem
+106,50 Radio Présence 
+107,30 Europe 1
+
+--- LISTE DES RADIOS DAB ---
+
+
