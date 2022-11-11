@@ -1,0 +1,69 @@
+Commune : Fos-sur-Mer
+Site : Château de l'Hauture
+Date de mesure : 19/10/22 
+Altitude : 23 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,60 France Inter 
+89,70 Radio Classique  
+90,20 France Bleu Gard-Lozère
+90,70 France Culture
+91,30 France Inter 
+91,60 France Bleu Gard-Lozère 
+92,00 France Inter
+92,90 France Musique 
+93,20 France Musique
+94,20 France Musique
+94,80 Europe 1 
+96,10 France Culture
+97,00 3DFM 
+97,40 France Inter 
+97,80 France Culture
+98,80 France Musique
+99,00 France Culture
+100,10 Chérie FM  
+100,40 France Bleu Vaucluse
+100,90 Radio Classique 
+101,10 France Bleu Hérault
+103,10 BFM
+103,60 France Bleu Provence 
+104,80 Europe 1 
+105,10 France Info 
+105,20 France Info 
+105,30 France Info
+106,00 Chérie FM 
+
+
+
+
+FG 100,5
+FIP 90,9
+Fun 91,8 / 93,1 / 93,8 / 99,7 / 99,9
+Galère 88,4
+Grenouille 88,8
+Interval 94,4
+Jazz 92,8
+M Radio 93,4
+Maritima 87,9 / 93,6 / 107,2
+Mouv' 96,8
+Nostalgie 96 / 98,3
+Nova 105,7
+NRJ 98,2 / 106,4
+R.Camargue 94,6
+R.Gazelle 98
+R.JM 90,5
+R.Star 92,3
+R.Vinci Autoroutes 107,7
+RCF 89,6 / 101,9
+RFM 89,2
+Rire 95,5 / 106,2
+RMC 104,3
+RTL 101,4
+RTL 2 101,7 / 106,8
+Skyrock 90 / 97,1
+Soleil FM 96,3
+Sudradio 93,3 / 95 / 95,1 / 95,2
+United 97,6
+Virgin 102,3
+Zinzine 88,1
