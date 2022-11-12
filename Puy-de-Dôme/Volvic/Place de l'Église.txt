@@ -24,6 +24,7 @@ Altitude : 516 mètres
 92,00 RVA
 92,20 RVA 
 92,40 Sud Radio 
+92,80 France Musique 
 92,90 RTL
 93,30 Radio Campus
 93,60 Chérie FM 
@@ -34,7 +35,7 @@ Altitude : 516 mètres
 94,60 Europe 1
 95,00 Rire & Chansons
 95,50 France Musique
-95,90 
+95,90 Fusion FM 
 96,40 M Radio
 96,60 Fun Radio
 97,00 Radio Altitude
@@ -43,13 +44,14 @@ Altitude : 516 mètres
 97,80 Virgin Radio
 98,40 France Culture 
 98,80 Radio Scoop
+99,30 France Inter 
 99,60 NRJ
 99,80 RTL 2
 100,20 Radio Arverne
 100,50 RMC
-100,80 
-101,00 
-101,20 
+100,80 Chérie FM 
+101,00 Clash FM 
+101,20 NRJ 
 102,00 France Bleu Auvergne
 102,50 France Bleu Auvergne
 102,90 Radio Nova
