@@ -1,0 +1,50 @@
+Commune : Saint-Ismier
+Site : Lac de Chartreuse
+Date de mesure : 28.07.22 
+Altitude : 221 mètres 
+
+Alpes1 101,6
+Arménie 102,6
+Autoroute 107,7
+Beur 97,8
+BFM 95,3 - 100,8
+Bleu Isère 98 - 98,2 - 99,1 - 101 - 101,8 - 102,8 - 106
+Bleu Savoie 106,1 - 106,2
+Campus 90,8
+Chérie 105,8
+Classique 102,4
+Culture 87,6 - 88,2 - 88,8 - 90,1 - 90,5 - 92,8 - 99,6 - 100,6
+Dragon 104,4
+Europe1 104,6 - 104,8 - 104,9
+Fontaine 88,6
+Fun 98,80
+Grésivaudan 87,8 - 89
+Hot 93,9 - 102 - 102,1 - 103,5
+Info 105,1 - 105,4 - 105,5
+IFM 92,2
+Inter 89,9 - 91,5 - 91,6 - 93,5 - 96,3 - 98,5 - 99,4 - 99,8
+ISA 100,4
+M Radio 106,9
+Max 94,5
+Mouv' 95,5
+Musique 89,6 - 91,8 - 92,4 - 92,6 - 95,2 - 106 - 107,2 - 107,3
+News 101,2
+Nostalgie 93,3
+NRJ 103 - 103,1 - 103,2 - 103,9
+Oxygène 93 - 106,5
+Passion 90,3
+Phare 96,6
+RCF 88,4 - 103,7
+RFM 94,1 - 94,3
+Rire 94,9 - 95
+RKH 100
+RKS 97
+RMC 91 - 104,2
+RTL 97,4
+RTL2 93,7 - 94,6 - 95,7
+Scoop 92
+Skyrock 96
+Virage 89,4
+Virgin 91,2
+NONAME 89,6 (pop rock) - 97,2 - 102,2 - 106,7 - 107,1 (chanson fr)
+
