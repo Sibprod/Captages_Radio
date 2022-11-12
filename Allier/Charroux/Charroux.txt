@@ -1,0 +1,60 @@
+Commune : Charroux
+Site : Parking du monument aux morts
+Date de mesure : 12/11/2022
+Altitude : 416 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,70 Nostalgie
+87,90 Fusion FM
+88,60 RFM
+88,80 FG 
+89,20 RCF Allier
+89,80 Fusion FM
+90,00 Chérie FM
+90,40 France Inter
+90,80 France Inter
+91,00 Radio Classique
+91,60 RCF Puy-de-Dôme
+91,80 BFM
+92,20 
+92,60 
+92,90 RTL
+93,60 
+93,80 Logos FM
+94,20 Fusion FM
+94,60 Europe 1
+95,10 Rire & Chansons
+95,50 France Musique
+95,90 Fusion FM
+96,20 Skyrock
+96,40 M Radio
+97,20 RTL 2
+97,80 Virgin Radio
+98,40 France Culture
+99,20 Skyrock
+99,60 NRJ
+100,00
+100,50 RMC
+101,20 NRJ
+101,40 RFM
+101,70 RTL 2
+102,00 France Bleu Auvergne
+102,50 France Bleu Auvergne
+102,90 Nostalgie
+103,30 Fun Radio
+103,70 Radio Variance
+104,10 Skyrock 
+104,30 RTL 
+105,10 RTL 
+105,50 France Info
+105,70 RTL
+106,10 RMC
+106,40 RFM
+106,60 Vibration FM
+106,90 M Radio
+107,20 Radio Plein Cœur 
+107,50 M Radio
+107,70 Autoroute Info
+107,90 Europe 1
+
