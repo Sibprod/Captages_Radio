@@ -1,0 +1,28 @@
+Commune : La Terrasse
+Site : Lac de la Terrasse
+Date de mesure : 27/07/2022
+Altitude : 242 mètres
+
+--- LISTE DES RADIOS FM ---
+
+Alpes 1 101,6
+Autoroute 107,7
+BFM 100,8
+Bleu Isère 102,7
+Campus 90,8
+Culture 88,2 - 96,7 - 99,6
+Espace 2 100,1
+Hot 93,9 - 102 - 103,5
+Info 105,1 - 105,5
+Inter 89,9 - 91,6 - 99,4 - 99,8
+ISA 100,4
+Grésivaudan 87,8 - 89
+M Radio 106,9
+Musique 89,6 - 91,8 - 107,3
+NONAME 100,6 - 102,2
+News 101,2
+Passion 90,3
+Phare 96,6
+RCF 103,7
+Rire 95
+RMC 104,2
