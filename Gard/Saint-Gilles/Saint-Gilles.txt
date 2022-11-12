@@ -1,0 +1,53 @@
+Commune : Saint-Gilles
+Site : Réservoir d'Eau
+Date de mesure : 27/08/22
+Altitude : 10 mètres
+
+--- LISTE DES RADIOS FM ---
+
+3DFM 97
+Alliance Plus 103,1
+Bleu Gard 90,2/91,6/95,6/99,5
+Bleu Hérault 100,6/101,1
+Bleu Provence 103,6
+Bleu Vaucluse 88,6/98,8/100,4
+Camargue 94,6
+Chérie 96,6/100,1
+Classique 89,7/100,9
+Culture 90,7/96,1/97,8/99
+Delta FM 88,9
+Europe 1 94,8/94,9/101,4/104,8
+FIP 90,9
+Flash 105,6
+FM+ 91
+Fun 91,8/94/99,7/99,9
+Galère 88,4
+Info 105/105,1/105,2/105,3/105,5
+Inter 87,6/88,7/88,8/89,1/89,4/91,3/97,4
+Interval 94,4
+Jazz 92,8/107,4
+Lengadoc 95,4
+M Radio 93,4
+Maritima 87,9/93,6
+Mouv' 102,7
+Musique 92,9/93,2/94,2
+Nîmes 92,2
+Nostalgie 96/103,9
+Nova 105,7
+NRJ 98,2/105,8/106,1/106,4
+RAJE 102,5
+RCF 90,4
+RFM 89,2/95,9
+RGO 88,2
+Rire 88,1/89,9/91,1/95,5
+RMC 104,3/104,5
+RTL 106,9/107/107,2
+RTL2 101,7/106,8
+RTS 106,5/106,6
+Skyrock 90/92,5/92,6
+Soleil FM 96,3
+Star 92,3
+Sudradio 93,3/95,1/95,2/103,2/104,7
+Vinci 107,7
+Virgin 102,1/102,3
+NONAME 93,9/107,3 (musique?)
