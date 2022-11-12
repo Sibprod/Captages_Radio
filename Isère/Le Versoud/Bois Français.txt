@@ -1,0 +1,51 @@
+Commune : Le Versoud 
+Site : Lac de Taillefer
+Date de mesure : 28/07/2022
+Altitude : 221 mètres
+
+--- LISTE DES RADIOS FM ---
+
+Alpes 1 101,6
+Arménie 102,6 - 106,1
+Autoroute 107,7
+Beur 97,8
+BFM 95,3 - 100,8
+Bleu Isère 98,2 - 99,1 - 101,8 - 102,8
+Bleu Savoie 103,9
+Campus 90,8
+Chérie 105,8
+Classique 102,4
+Culture 88,2 - 88,8 - 90,1 - 90,5 - 92,8
+Europe 1 104,6 - 104,8
+Fontaine 88,6
+Fun 98,8
+Grésivaudan 87,8 - 89
+Hot 102 - 103,5
+IFM 92,2
+Info 103,4 - 105,1 - 105,5
+Inter 89,9 - 91,5 - 91,6 - 93,5 - 96,3 - 99,4 - 99,8
+ISA 100,4
+M Radio 106,9
+Max 94,5
+Mouv' 95,5
+Musique 89,6 - 91,8 - 92,4 - 92,6 - 98,6 - 107,2 - 107,3
+News 101,2
+Nostalgie 93,3
+NRJ 103 - 103,2
+Oxygène 93 - 106,5
+Passion 90,3
+Phare 96,6
+RCF 103,7
+RFM 94,1
+Rire 94,9 - 95
+RKH 100
+RKS 97
+RMC 104,2
+RTL 97,4
+RTL 2 93,7 - 95,7
+Scoop 92
+Skyrock 96
+Tonic 98,4
+Virage 89,4
+Virgin 91,2
+NONAME 106,3
