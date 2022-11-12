@@ -1,0 +1,44 @@
+Commune : Bellegarde
+Site : Halte Fluviale
+Date de mesure : 27/08/22 
+Altitude : 0 mètre
+
+--- LISTE DES RADIOS FM ---
+
+3Dfm 97
+Bleu Gard 90,2/91,6/95,6/99,5
+Bleu Hérault 101,1
+Bleu Provence 103,6
+Bleu Vaucluse 98,8/100,4
+Camargue 94,6
+Chérie 96,6
+Classique 89,7/100,9
+Culture 90,7/91,1/96,1/97,8/99
+Ecclésia 100,8
+Europe 1 94,8
+FIP 90,9
+FM+ 91
+Fun 91,8/94/99,9
+Info 105,1/105,2/105,3/105,5
+Inter 87,6/88,7/88,8/89,4/91,3/97,4
+Interval 94,4
+Maritima 87,9
+Musique 92,9/93,2/93,7/94,2/98,6
+Nîmes 92,2
+Nova 92,4
+NRJ 105,8/106,4
+RAJE 102,5
+RCF 90,4/104
+RFM 89,2/95,9
+RGO 88,2
+Rire 88,1/89,9/95,5
+RMC 104,3
+RTL 88,4/106,9/107
+RTL2 101,7
+RTS 106,5/106,6
+Skyrock 90/92,5/92,6
+Soleil FM 96,3
+Sudradio 93,3/95/95,1/95,2/103,2
+Vinci 107,7
+Virgin 89/102,1
+NONAME 90,5
