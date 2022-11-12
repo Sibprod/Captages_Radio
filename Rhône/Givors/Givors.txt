@@ -1,0 +1,62 @@
+Commune : Givors 
+Site : Place Pasteur
+Ddm : 22.09.22 
+Altitude : 161 mètres
+
+--- LISTE DES RADIOS FM ---
+
+Activ 90
+Arménie 102,6 / 106,1
+Autoroute 107,7
+Beur 94,3
+BFM 95,3
+Bleu Isère 99,1 / 101,8
+Bleu Pays de Savoie 103,9
+Bleu St-Etienne 97,1
+Brume 90,7
+C'Rock 89,5
+Canut 102,2
+Capsao 99,3
+Chérie 95,9 / 98,9
+Classique 95,1 / 96,5
+Culture 88,2 / 88,8 / 89,1 / 94,1
+Espace 96,9
+Espérance 87,6 / 88,1
+Europe 1 104,6 / 104,8
+FC 97,6
+Fun 90,9 / 93,3 / 96,3 / 101,3
+Générations 101,5
+Hot 93,9
+Impact 106,3
+Info 103,4 / 105,4 / 105,6
+Inter 93,5 / 99,5 / 99,8 / 101,1
+Jazz 97,3
+Judaïca 94,5
+Lyon 1ere 90,2
+M Radio 93,7
+Mouv' 87,8 / 88
+Musique 91,8 / 92,4 / 92,7 / 98
+Nostalgie 92,9 / 93,1 / 98,2
+Nova 89,8 / 91,7
+NRJ 102,8 / 103
+Orient 106,7
+Oxygène 100,6
+Pluriel 91,5
+RCF 88,4 / 94,7
+RFM 107,1 / 107,3
+Rire 94,9
+RLF 100,9
+RMC 104,2 / 104,4
+RTL 105 / 105,2
+RTL 2 95,7 / 100,5
+Salam 91,1
+Scoop 91,3 / 92
+Skyrock 96,1 / 106,5
+Sol 100,7
+Tonic 98,4
+Vinci 107,7
+Virage 89,3
+Virgin 97,8 / 100,3
+Vivre 105,8
+NONAME 105,7
+- VIDE - 92,2 / 103,6 / 99 / 106,4
