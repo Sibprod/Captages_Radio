@@ -69,6 +69,8 @@ Altitude : 7 mètres
 105,30 France Info
 105,70 Nova
 106,00 Mistral FM 
+106,20 RTL 2 
 106,40 NRJ
+106,60 M Radio 
 106,80 RTL 2
 107,20 Maritima
