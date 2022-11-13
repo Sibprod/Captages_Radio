@@ -1,0 +1,76 @@
+Commune : Thiers (63300)											
+Site : Point de vue - Terrasses de Thiers 											
+Date de mesure : 24.05.22											
+Altitude : 406 mètres											
+											
+87,70 Nostalgie	
+88,10 Sud Radio									
+88,40 RCF
+88,80 FG	
+89,00 France Inter
+89,20 RCF
+89,60 Virgin Radio 
+89,80 Fusion FM 
+90,10 France Inter
+90,40 France Inter
+91,00 Radio Classique 
+91,20 Radio Espérance 
+91,60 RCF	
+92,00 RVA 
+92,20 RVA
+92,60 Radio Classique 
+92,80 France Musique 
+93,30 Radio Campus 
+93,70 France Musique 
+94,00 France Maghreb
+94,20 France Inter
+94,40 M Radio
+95,00 Rire & Chansons
+95,10 Jordanne FM 
+95,50 France Musique 
+95,90 Fusion FM 
+96,00 France Inter	
+96,20 Skyrock 
+96,60 Fun Radio 
+97,00 Radio Altitude 
+97,50 Mouv'
+97,80 Virgin Radio		 
+99,00 Nostalgie		
+99,20 Skyrock	
+99,30 France Inter
+99,70 France Musique 
+102,30 Skyrock 
+103,30 Fun Radio 
+106,10 France Inter									
+107,30 Skyrock 
+						
+			
+			
+				Radio Espérance 				
+98,1	106,2						indefini				
+				
+ 				
+ 				
+			
+98,4	88,2	96,8	89,3				France Culture 				
+98,8							Radio Scoop				
+99,4							Jazz Radio				
+99,8	105,9	97,2					RTL 2				
+100,2							Radio Arverne				
+100,5	105,1	106,7	97,9				RMC Info				
+100,8	105,7	93,6					Chérie FM 				
+101,2	104	98,1					NRJ				
+101,4							France Bleu Limousin				
+101,6	93,8						Logos FM				
+101,9	102	102,5	103,5	92,3			France Bleu Pays d'Auvergne 				
+102,7	103,1	104,7	94,6	91,4			Europe 1				
+102,9							Radio Nova				
+104,3	104,5	92,9	87,9				RTL				
+105,3	105,4	105,5					France Info				
+106,4	88,6	88,7					RFM				
+107							BFM				
+107,7							Radio Vinci Autoroutes 				
+103,7							Variance FM				
+104,4							RBA FM				
+93,1							Totem				
+98							Chantier				
