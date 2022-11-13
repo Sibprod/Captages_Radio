@@ -1,0 +1,66 @@
+Commune : Clermont-Ferrand (63000)
+Site : Place Delille
+Date de mesure : 13/11/2022
+Altitude : 379 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,70 Nostalgie
+88,10 Sud Radio
+88,40 RCF Puy-de-Dôme
+88,80 FG
+89,20 RCF Puy-de-Dôme
+89,60 Virgin Radio
+90,00 Chérie FM
+90,40 France Inter
+90,80 France Inter
+91,00 Radio Classique
+91,20 Radio Espérance
+91,60 RCF Puy-de-Dôme
+92,00 RVA
+92,60 Radio Classique
+92,90 RTL
+93,30 Radio Campus
+93,80 Logos FM
+94,00 France Maghreb
+94,20 Fusion FM
+94,40 M Radio
+94,60 Europe 1
+95,00 Rire & Chansons
+95,50 France Musique
+95,90 Fusion FM
+96,20 Skyrock
+96,40 M Radio 
+96,60 Fun Radio
+97,00 Altitude FM
+97,20 RTL 2
+97,50 Mouv'
+97,80 Virgin Radio
+98,00 Radio Chantier
+98,40 France Culture
+98,80 Radio Scoop
+99,40 Jazz Radio
+99,80 RTL 2
+100,20 Radio Arverne
+100,50 RMC
+100,80 Chérie FM
+101,20 NRJ
+101,60 Logos FM
+102,00 France Bleu Auvergne
+102,50 France Bleu Auvergne
+102,90 Radio Nova 
+103,10 Europe 1
+103,30 Fun Radio 
+103,70 Radio Variance
+104,00 NRJ
+104,30 RTL
+104,70 Europe 1
+105,10 RTL
+105,50 France Info
+105,90 RTL 2
+106,40 RFM
+106,70 RMC
+107,00 BFM
+107,30 Skyrock
+107,50 
+107,70 Autoroute Info
