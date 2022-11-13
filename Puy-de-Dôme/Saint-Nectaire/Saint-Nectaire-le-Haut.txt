@@ -7,6 +7,7 @@ Altitude : 745 mètres
 
 87,90 RTL 
 88,10 
+88,20 France Culture (Ussel,19)
 88,40 RCF Puy-de-Dôme 
 88,60 RFM 
 88,80 FG 
@@ -16,13 +17,15 @@ Altitude : 745 mètres
 93,60
 95,10 idem 93,60
 95,50 France Musique
+96,00 France Inter (Ussel,19)
 97,50 Mouv'
 97,90 RMC
 98,40 France Culture
+99,70 France Musique (Ussel,19)
 99,90
-101,40 France Bleu Limousin
+101,40 France Bleu Limousin (Ussel,19)
 102,50 France Bleu Auvergne 
 103,30 Fun Radio 
 105,50 France Info
-106,10 France Inter
+106,10 France Inter (Issoire,63 / Saint-Nectaire, Puy de Mazeyres)
 107,30 
