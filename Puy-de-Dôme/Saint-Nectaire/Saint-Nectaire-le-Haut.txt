@@ -1,0 +1,28 @@
+Commune : Saint-Nectaire
+Site : Place de l'Église
+Date de mesure : 13/11/2022
+Altitude : 745 mètres 
+
+--- LISTE DES RADIOS FM ---
+
+87,90 RTL 
+88,10 
+88,40 RCF Puy-de-Dôme 
+88,60 RFM 
+88,80 FG 
+89,10 RCF Puy-de-Dôme 
+90,40 France Inter
+91,40 
+93,60
+95,10 idem 93,60
+95,50 France Musique
+97,50 Mouv'
+97,90 RMC
+98,40 France Culture
+99,90
+101,40 France Bleu Limousin
+102,50 France Bleu Auvergne 
+103,30 Fun Radio 
+105,50 France Info
+106,10 France Inter
+107,30 
