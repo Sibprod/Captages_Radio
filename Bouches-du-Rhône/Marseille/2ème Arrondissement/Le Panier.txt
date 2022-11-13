@@ -7,6 +7,7 @@ Altitude : 7 mètres
 
 87,70 Radio Soleil
 87,90 BFM
+88,10 Radio Zinzine 
 88,40 Radio Galère
 88,60 France Bleu Vaucluse 
 88,80 Radio Grenouille
@@ -25,6 +26,7 @@ Altitude : 7 mètres
 92,00 France Inter
 92,20 Radio Star
 92,30 Radio Star
+92,60 Beur FM 
 92,80 Jazz Radio 
 93,10 Fun Radio 
 93,20 France Musique
