@@ -1,1 +1,74 @@
+Commune : Marseille (13002)	
+Site : Le Panier - Rue de la Loge	
+Date de mesure : 03/02/2022	
+Altitude : 7 mètres	
 
+--- LISTE DES RADIOS FM ---
+
+87,70 Radio Soleil
+87,90 BFM
+88,40 Radio Galère
+88,60 France Bleu Vaucluse 
+88,80 Radio Grenouille
+89,20 RFM
+89,40 Radio Orient
+89,60 RCF Dialogue (Bouches-du-Rhône)
+89,80 RFM
+90,00 Skyrock
+90,30 M Radio
+90,50 Radio JM
+90,70 France Culture
+90,90 FIP
+91,30 France Inter
+91,50 France Inter
+91,70 France Inter
+92,00 France Inter
+92,20 Radio Star
+92,30 Radio Star
+92,80 Jazz Radio 
+93,10 Fun Radio 
+93,20 France Musique
+93,40 M Radio
+93,80 France Maghreb
+94,20 France Musique
+94,50 France Musique
+94,70 France Musique
+94,90 France Musique
+95,10 Sud Radio
+95,30 Chérie FM 
+95,50 Rire & Chansons 
+95,80 Virgin Radio 
+96,00 Nostalgie
+96,40 Mouv'
+96,80 Mouv'
+97,60 United Radio 
+98,00 Radio Gazelle
+98,50 RMC Info
+98,60 France Culture
+99,00 France Culture
+99,60 Fun Radio 
+99,70 Fun Radio 
+100,10 Chérie FM 
+100,40 France Bleu Vaucluse 
+100,50 FG
+100,90 Radio Classique
+101,40 RTL
+101,60 Kiss FM 
+101,80 Diva FM
+102,30 Virgin Radio 
+102,70 France Bleu Provence
+102,90 France Bleu Provence
+103,10 BFM
+103,60 France Bleu Provence
+103,80 France Bleu Provence
+104,20 RMC Info
+104,30 RMC Info
+104,70 Europe 1
+104,80 Europe 1
+105,1 RCF
+105,3 France Info
+105,70 Nova
+106,00 Mistral FM 
+106,40 NRJ
+106,80 RTL 2
+107,20 Maritima
