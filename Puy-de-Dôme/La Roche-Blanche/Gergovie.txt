@@ -1,0 +1,89 @@
+Commune : La Roche-Blanche
+Site : Gergovie - Le Plateau
+Date de mesure : 13/11/2022
+Altitude : 716 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,70 Nostalgie
+87,90 RTL
+88,10 Sud Radio
+88,40 RCF Puy-de-Dôme
+88,80 FG
+89,00 France Inter
+89,20 RCF Puy-de-Dôme 
+89,30 France Culture 
+89,60 Virgin Radio 
+89,80 Virgin Radio
+90,00 Chérie FM 
+90,10 France Inter
+90,40 France Inter
+90,80 France Inter 
+91,00 Radio Classique
+91,20 Radio Espérance
+91,40 Europe 1
+91,60 RCF Puy-de-Dôme 
+92,00 RVA
+92,20 RVA
+92,60 Radio Classique
+93,10 Totem
+93,30 Radio Campus
+93,60 Chérie FM
+93,80 Logos FM
+94,00 France Maghreb
+94,20 Fusion FM
+94,40 M Radio
+94,60 Europe 1
+94,80 NRJ
+95,00 Rire & Chansons
+95,50 France Musique
+95,90 Fusion FM
+96,20 Skyrock
+96,40 M Radio
+96,60 Fun Radio
+97,00 Altitude FM
+97,20 RTL 2
+97,50 Mouv'
+97,80 Virgin Radio
+98,40 France Culture 
+98,80 Radio Scoop
+99,00 Nostalgie
+99,30 France Inter 
+99,60 NRJ 
+99,90 RVA 
+100,20 Radio Arverne 
+100,40 FDL
+100,50 RMC
+100,60 Chérie FM 
+100,80 Chérie FM 
+101,00 Clash FM
+101,20 NRJ
+101,60 Logos FM 
+102,00 France Bleu Auvergne
+102,50 France Bleu Auvergne
+102,90 Radio Nova
+103,10 Europe 1
+103,30 Fun Radio
+103,70 Radio Variance
+104,30 RTL
+104,50 RTL
+104,70 Europe 1
+105,10 RMC
+105,50 France Info 
+105,70 RTL 
+105,90 RTL 2 
+106,20 Radio Espérance 
+106,40 RFM 
+106,60 Vibration 
+106,70 RMC
+107,30 Skyrock 
+107,70 Autoroute Info
+107,90 Europe 1
+
+--- LISTE DES RADIOS DAB ---
+
+Canal 9C (Métro 2)
+Canal 9D (Métro 1)
+
+
+
