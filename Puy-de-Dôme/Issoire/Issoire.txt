@@ -1,0 +1,69 @@
+Commune : Issoire	
+Site: Place de la Montagne	
+Date de mesure : 08.06.22	
+Altitude : 393 mètres	
+	
+87,70 Nostalgie
+87,90 RTL 
+88,10 Sud Radio
+88,30 RCF
+88,60 RFM
+88,80 FG
+89,10 RCF
+89,30 France Culture
+89,60 Virgin Radio
+89,80 Virgin Radio
+90,10 France Inter
+90,40 France Inter
+90,80 France Inter
+91,40 Europe 1
+91,60 RCF
+91,80 M Radio
+92,00 RVA
+92,30 France Bleu Auvergne
+92,80 France Musique
+93,10 Totem
+93,40 Totem
+93,60 Chérie FM
+94,00 France Maghreb
+94,20 France Inter
+94,40 M Radio
+94,70 Logos FM
+95,50 France Musique
+95,90 Nostalgie
+96,20 Skyrock
+96,60 Fun Radio
+96,80 Rire & Chansons
+97,00 Radio Altitude 
+97,30 NRJ 
+97,50 Mouv'
+97,90 RMC
+98,40 France Culture
+98,70 RTL 
+99,00 Nostalgie
+99,30 France Inter
+99,40 Jazz Radio 
+99,90 RVA
+100,20 Radio Arverne
+100,60 Chérie FM
+100,80 Chérie FM
+101,20 NRJ
+101,60 Fun Radio
+101,90 Skyrock
+102,00 France Bleu Auvergne
+102,50 France Bleu Auvergne
+103,00 RVA
+103,00 RFM
+103,30 Fun Radio
+104,00 NRJ
+104,30 RTL 
+104,70 Europe 1
+105,10 RMC
+105,50 France Info
+105,70 Chérie FM
+105,90 RTL 2
+106,40 RFM
+106,80 RMC
+107,10 RTL 
+107,30 Skyrock
+107,70 Radio Vinci Autoroutes
