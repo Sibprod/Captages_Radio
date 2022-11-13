@@ -65,8 +65,8 @@ Altitude : 7 mètres
 104,30 RMC Info
 104,70 Europe 1
 104,80 Europe 1
-105,1 RCF
-105,3 France Info
+105,10 RCF
+105,30 France Info
 105,70 Nova
 106,00 Mistral FM 
 106,40 NRJ
