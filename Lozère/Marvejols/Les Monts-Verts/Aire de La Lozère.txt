@@ -1,0 +1,54 @@
+Commune : Les Monts-Verts (48200)
+Site : A75 - Aire de la Lozère
+Date de mesure : 14/11/2022
+Altitude : 1074 mètres
+
+--- LISTE DES RADIOS FM ---
+
+87,80 France Culture
+88,30 RCF Cantal
+88,70 RFM
+89,30 France Culture 
+89,60 RTL 
+89,90 Virgin Radio 
+90,10 France Inter
+90,30 France Inter
+90,80 Fun Radio 
+91,10 France Musique 
+91,30 France Musique
+91,60 France Info 
+92,80 France Musique 
+93,70 France Musique
+94,00 RTL 2
+94,70 Fun Radio
+95,10 Jordanne FM
+95,50 France Musique
+96,20 Radio Zéma
+96,50 Skyrock 
+96,90 France Culture 
+97,50 Nostalgie ?
+97,60 France Inter
+98,10 NRJ 
+98,50 Radio Margeride
+98,90 NRJ
+99,30 France Inter 
+99,90 RCF Lozère
+100,10 France Bleu Auvergne
+100,70 Totem
+101,20 Totem
+101,40 M Radio
+101,60 Fun Radio
+102,10 M Radio 
+102,70 Europe 1
+103,10 Nostalgie
+103,50 RCF Lozère
+103,90 Rire & Chansons
+104,20 RMC
+104,60 RMC
+104,90 France Bleu Gard-Lozère
+105,70 Chérie FM
+107,10 RTL
+107,70 Radio Vinci Autoroutes 
+
+--- LISTE DES RADIOS DAB ---
+
