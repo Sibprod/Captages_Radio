@@ -5,6 +5,7 @@ Altitude : 170 mètres
 
 --- LISTE DES RADIOS FM ---
 
+87,60 RTL 
 87,90 BFM
 88,30 Mistral FM
 88,60 Top FM
@@ -15,13 +16,17 @@ Altitude : 170 mètres
 90,00 Skyrock
 90,20 Radio Star
 90,30 M Radio 
+90,50 France Musique 
 90,50 Radio JM
 90,80 TSF Jazz
+91,00 RCF Var 
 91,30 France Inter
 91,50 France Inter
 91,60 France Inter 
 92,00 France Inter 
+92,20 France Musique 
 92,40 Mistral FM
+92,70 France Inter 
 92,80 Jazz Radio
 93,10 Fun Radio
 93,40 M Radio
@@ -32,26 +37,34 @@ Altitude : 170 mètres
 94,90 France Musique
 95,30 Chérie FM
 95,80 Virgin Radio
+96,20 RCB 
 96,60 NRJ
 96,80 Mouv'
 97,10 France Culture
 97,50 France Culture
+97,80 Kiss FM 
 98,20 Beur FM
 98,50 RMC Info 
 98,80 Rire & Chansons 
 99,00 France Culture
+99,60 France Musique 
 99,70 Fun Radio
 100,00 Radio Active
+100,20 France Inter 
 100,40 RTL
 100,90 Radio Classique
+101,20 France Bleu Provence 
 101,40 RTL
+101,60 Fun Radio 
 101,60 Kiss FM
+101,90 France Culture 
 102,00 France Culture
 102,30 Virgin Radio
 102,50 France Bleu Provence
 102,90 France Bleu Provence
 103,30 Radio Classique
 103,60 France Bleu Provence
+103,80 France Bleu Azur 
 103,80 France Bleu Provence
 104,30 RMC Info
 104,70 Europe 1
@@ -61,17 +74,21 @@ Altitude : 170 mètres
 106,20 RTL 2
 106,60 M Radio
 107,00 Fréquence Nautique
+107,10 France Info
 107,70 Radio Vinci Autoroutes 
 
 --- LISTE DES RADIOS DAB ---
 
 Canal 5B (Marseille,13)
+Canal 6C (MCR4 - Monaco, MC)
 Canal 7A (Marseille,13)
 Canal 7C (Métro 1 - Marseille,13)
 Canal 8A (Marseille,13)
+Canal 8A (MCR1 - Monaco,MC)
 Canal 8B (Métro 2 - Marseille,13)
 Canal 8D (Marseille,13)
 Canal 9A (Toulon,83)
 Canal 11C (Toulon,83)
+Canal 12B (MCR2 - Monaco,MC)
 
 
