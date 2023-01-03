@@ -5,59 +5,66 @@ Altitude : 755 mètres
 
 --- Liste des radios FM ---
 
-88,1	France Musique
-88,7	France Culture
-89,1	Kiss FM
-90,1	
-90,5	
-90,7	
-90,8	TSF Jazz
-91	Radio Verdon
-91,2	Virgin Radio
-91,3	France Inter
-91,4	
-92,2	
-92,5	Nostalgie
-92,7	
-93	
-93,2	
-93,5	
-94,2	
-94,3	
-94,7	
-94,9	
-95,6	NRJ
-95,8	Virgin Radio
-96,1	
-96,3	
-96,5	
-96,6	
-97,1	
-97,2	
-97,3	
-97,4	
-97,7	
-98,1	
-98,3	
-98,5	RMC Info
-98,8	RCF
-99,2	
-99,3	RAI 3
-99,6	
-99,7	
-100	Europe 1
-100,2	
-100,5	Fun Radio
-100,7	Radio Zinzine
-101,2	France Bleu Provence
-101,9	
-102,1	
-102,7	Radio Classique
-103	RTL 2
-103,7	RDS
-104	
-104,5	
-104,7	
-104,9	RFM
-105,1	France Info
-106,7	
+88,10 France Musique
+88,70 France Culture
+89,10 Kiss FM
+90,10 France Culture
+90,50 France Musique
+90,70 France Culture
+90,80 TSF Jazz
+91,00 Radio Verdon
+91,20 Virgin Radio
+91,30 France Inter
+91,40 France Inter
+91,70 France Inter
+91,80 France Inter
+92,00 France Inter
+92,20 France Musique
+92,50 Nostalgie
+92,70 France Inter
+93,00 France Musique
+93,20 France Musique
+93,50 Nostalgie
+94,20 France Musique
+94,30 France Musique
+94,70 France Musique
+94,90 France Musique
+95,60 NRJ
+95,80 Virgin Radio
+96,10 France Inter
+96,30 France Inter
+96,50 Radio Verdon
+96,60 France Inter
+97,10 France Culture
+97,20 France Inter
+97,30 France Culture
+97,40 France Inter
+97,70 France Culture
+98,10 France Musique
+98,30 France Inter
+98,50 RMC Info
+98,60 France Culture
+98,80 RCF
+99,00 France Culture
+99,20 France Culture
+99,30 RAI 3
+99,60 France Musique
+99,70 Fun Radio
+100,00 Europe 1
+100,20 France Inter
+100,40 France Bleu Vaucluse
+100,50 Fun Radio
+100,70 Radio Zinzine
+101,20 France Bleu Provence
+101,90 France Culture
+102,10 France Bleu Provence
+102,70 Radio Classique
+103,00 RTL 2
+103,70 RDS
+104,00 France Culture	
+104,50 RMC Info
+104,70 Europe 1
+104,90 RFM
+105,10 France Info
+105,80 France Info
+106,70 France Inter
