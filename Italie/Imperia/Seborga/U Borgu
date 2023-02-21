@@ -13,7 +13,7 @@ Altitude : 517 mètres
 88,9	Agora FM
 89,1	Latina
 89,7	RTL 102.5
-90	Radio 1
+90,0	Radio 1
 90,3	M Radio
 90,6	Medi 1
 90,7	Radio 1
@@ -32,12 +32,12 @@ Altitude : 517 mètres
 93,8	Nostalgie
 94,5	Radio Italia
 94,8	France Bleu Azur
-95	Radio Deejay
+95,0	Radio Deejay
 95,2	RTL 102.5
 95,4	Radio Monaco
 96,1	FG
 96,3	France Inter
-97	France Inter
+97,0	France Inter
 97,3	Radio Capital
 97,6	RFM
 98,2	Radio Monaco
@@ -55,13 +55,13 @@ Altitude : 517 mètres
 102,2	Radio Intemelia (Ventimiglia)
 102,5	RTL 102.5
 102,7	Radio Classique
-103	RFM
+103,0	RFM
 103,3	RDS
 103,8	France Bleu Azur
 104,1	M Radio
 104,4	Radio Margherita
 104,7	Virgin Radio
-105	RDS
+105,0	RDS
 105,3	Radio Émotion
 105,5	France Info
 105,7	France Info
