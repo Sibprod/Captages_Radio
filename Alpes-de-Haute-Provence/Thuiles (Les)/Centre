@@ -14,15 +14,18 @@ Altitude : 1117 mètres
 89,1 France Musique
 89,3 Radio Espérance
 89,7 RTL 2
+89,9 France Inter
 90,0 Alpes 1
 90,2 D!ci Radio
 90,4 Nostalgie
+90,5 France Inter
 90,9 Alpes 1
 91,6 Alpes 1
 91,7 RMC Info
 92,0 France Culture
 92,2 France Inter
 92,4 Jazz Radio
+92,8 France Culture
 93,0 Fun Radio
 93,4 Europe 2
 93,7 RAM (Radio Alpine Meilleure)
@@ -46,6 +49,7 @@ Altitude : 1117 mètres
 100,9 France Info
 101,1 RFM
 101,3 France Bleu Provence
+101,8 France Bleu Provence
 102,0 La Radio Plus
 102,1 RTL 2
 102,3 La Radio Plus 
@@ -55,7 +59,7 @@ Altitude : 1117 mètres
 103,1 Radio Oxygène
 103,5 Europe 1
 103,7 RTL 
-104,0 Europe 2
+104,0 Nostalgie
 104,3 Fun Radio
 104,8 RMC Info
 105,6 RMC Info
@@ -63,4 +67,5 @@ Altitude : 1117 mètres
 105,9 Europe 2
 106,5 RFM
 106,7 Radio Espérance
-
+107,3 France Musique
+107,5 Radio Maria
