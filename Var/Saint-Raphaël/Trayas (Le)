@@ -17,16 +17,14 @@ Altitude : 49 mètres
 89	Radio Radicale
 89,2	France Culture
 89,3	Radio Chalom Nitsan
-89,4	RTL 102.5
+89,4	Radio Babboleo 
 89,5	RAI 1
 89,6	Radio Salve Regina
-89,7	
+89,7	RTL 102.5
 89,8	Contatto Radio
 89,9	Radio 24
-90	
 90,3	M Radio
 90,4	Radio 24
-90,5	
 90,6	Médi 1
 90,7	RAI 1
 90,9	Kiss FM
@@ -44,8 +42,7 @@ Altitude : 49 mètres
 93,3	RAI 2
 93,5	Nostalgie
 93,8	Nostalgie
-93,9	
-94	
+93,9
 94,1	Agora FM
 94,2	RDS
 94,4	France Bleu Azur
@@ -60,15 +57,13 @@ Altitude : 49 mètres
 96	Radio Studio 54
 96,1	FG
 96,3	France Inter
-96,5	
 96,6	Latina
 96,8	Latina
-97	
+97	France Inter 
 97,1	Radio Kiss Kiss
 97,3	RAI 3
 97,4	RTL
 97,6	Radio Babboleo
-97,7	
 97,9	RAI 3
 98	RDG
 98,1	TSF Jazz
@@ -80,8 +75,8 @@ Altitude : 49 mètres
 99,3	RAI 3
 99,4	Radio 105
 99,6	France Musique
-99,7	
 99,8	France Musique
+99,8    NRJ 
 100,2	France Inter
 100,5	Radio Number 1
 100,6	Radio Deejay
@@ -100,7 +95,6 @@ Altitude : 49 mètres
 103	RFM
 103,2	Alta Frequenza
 103,3	RAI Isoradio
-103,5	
 103,7	RDS
 103,8	France Bleu Azur
 104	Radio Nostalgia
@@ -116,8 +110,7 @@ Altitude : 49 mètres
 106,1	NRJ
 106,2	Radio Italia
 106,5	Riviera Radio
-106,7	RMC 1
-106,8	
+106,8	RMC 1
 107	Skyrock
 107,1	Radio Freccia
 107,2	Virgin Radio
