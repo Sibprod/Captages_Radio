@@ -19,7 +19,6 @@ Altitude : 154 mètres
 89,3	Radio Chalom Nitsan
 89,4	Radio Babboleo
 89,6	Radio As
-89,8	
 89,9	Radio 24
 90,1	Radio 24
 90,3	M Radio
@@ -41,10 +40,11 @@ Altitude : 154 mètres
 93	Radio Freccia
 93,1	France Musique
 93,2	Jazz Radio
+93,2    RAI Radiodue
 93,5	Nostalgie 
 93,7	Radio Maria
 93,8	Nostalgie 
-93,9	
+93,9	(ITALIE)
 94	Agora FM
 94,1	Agora FM
 94,2	RDS
@@ -85,9 +85,9 @@ Altitude : 154 mètres
 101	Mouv'
 101,3	Europe 1
 101,4	Europe 1
-101,6	RMC 2
+101,6	RMC 2 (RMC 1 en 2023)
 101,9	France Culture
-102,1	Radio Pitchoun
+102,1	Radio Pitchoun (Melody en 2023)
 102,2	RTL 102.5
 102,3	Nice Radio
 102,4	Rire & Chansons 
@@ -121,3 +121,16 @@ Altitude : 154 mètres
 107,6	RDS
 107,7	Radio Vinci Autoroutes 
 107,9	Radio Kiss Kiss
+
+--- Liste des radios DAB ---
+
+6B (MCR3)
+6C (MCR4)
+8A (MCR1)
+8D (NCE6)
+9D (NCE9D)
+10B (IT-MEDIADAB)
+11A (NCE-ETENDU)
+11B (NCE11B)
+11C (NCE11C)
+12B (MCR2)
