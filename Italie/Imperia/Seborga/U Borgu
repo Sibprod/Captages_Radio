@@ -5,59 +5,66 @@ Altitude : 517 mètres
 
 --- Liste des radios FM ---
 
-87,6	RMC 1
-87,9	Radiofreccia
-88,2	Radio Maria
-88,4	RMC 1
-88,7	France Culture
-88,9	Agora FM
-89,1	Latina
-89,7	RTL 102.5
-90,0	Radio 1
-90,3	M Radio
-90,6	Medi 1
-90,7	Radio 1
-90,8	Radio commerciale
-90,9	Kiss FM
-91,2	Virgin Radio
-91,7	France Musique
-91,9	France Musique
-92,1	Virgin Radio
-92,2	France Musique
-92,5	Radio Maria
-92,7	RMC 1
-92,9	RTL 2
-93,2	Jazz Radio
-93,5	Nostalgie
-93,8	Nostalgie
-94,5	Radio Italia
-94,8	France Bleu Azur
-95,0	Radio Deejay
-95,2	RTL 102.5
-95,4	Radio Monaco
-96,1	FG
-96,3	France Inter
-97,0	France Inter
-97,3	Radio Capital
-97,6	RFM
-98,2	Radio Monaco
-98,5	RMC Info
-98,7	Radio Deejay
-99,6	France Musique
+87,6 RMC 1
+87,9 Radiofreccia
+88,2 Radio Maria
+88,4 RMC 1
+88,7 France Culture
+88,9 Agora FM
+89,1 Latina
+89,7 RTL 102.5
+90,1 RAI Radiouno
+90,3 M Radio
+90,6 Médi 1
+90,7 RAI Radiouno
+90,8 Radio commerciale
+90,9 Kiss FM
+91,2 Virgin Radio
+91,5 RBE - Radio Beckwith Evangelica
+91,7 France Musique
+91,9 France Musique
+92,1 Virgin Radio
+92,2 France Musique
+92,5 Radio Maria
+92,7 RMC 1
+92,9 RTL 2
+93,2 Jazz Radio
+93,2 RAI Radiodue
+93,5 Nostalgie
+93,8 Nostalgie
+94,15 RDS
+94,5 Radio Italia
+94,8 France Bleu Azur
+95,0 Radio Deejay
+95,2 RTL 102,5
+95,4 Radio Monaco
+96,1 FG
+96,3 France Inter
+97,0 France Inter
+97,3 Radio Capital
+97,6 RFM
+97,9 RAI Radiotre
+98,2 Radio Monaco
+98,2 RAI Radiodue
+98,5 RMC Info
+98,7 Radio Deejay
+99,6 France Musique
+99,9 RAI Radiotre
 100,2	Radio Zeta
 100,5	Radio Émotion
 100,7	Radio Number 1
 100,9	Radio Number 1
 101,1	Fun Radio
 101,4	R101
-101,6	RMC 2 (Music Club Radio)
+101,6	RMC 2 (Music Club Radio, Revolution 935, puis RMC 1 en 2023)
 101,9	Radio Intemelia (Ventimiglia)
 102,2	Radio Intemelia (Ventimiglia)
-102,5	RTL 102.5
+102,5	RTL 102,5
 102,7	Radio Classique
 103,0	RFM
 103,3	RDS
 103,8	France Bleu Azur
+103,9 Radio 103
 104,1	M Radio
 104,4	Radio Margherita
 104,7	Virgin Radio
@@ -66,9 +73,13 @@ Altitude : 517 mètres
 105,5	France Info
 105,7	France Info
 105,9	France Info
-106,1	
+106,0 Radio 88
 106,3	Riviera Radio
 106,5	Riviera Radio
 106,8	RMC 1
 107,1	R101
 107,6	RDS
+
+--- Liste des radios DAB ---
+
+
