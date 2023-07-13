@@ -1,0 +1,76 @@
+Commune : Spéracèdes
+Site : Esplanade de la mairie
+Date de mesure : 06/07/2023
+Altitude : 387 mètres
+
+--- Liste des radios FM ---
+
+87,7 Rire & Chansons
+88,1 Europe 2
+88,3 NRJ 
+88,5 France Info
+88,7 France Culture
+89,1 Latina
+89,6 Radio As
+89,9 RFM
+90,3 M Radio
+90,6 Médi 1
+91,2 Europe 2
+91,5 Cannes Radio
+91,9 Lérins Radio
+92,2 France Musique
+92,4 France Inter
+92,6 Fun Radio
+92,8 RTL 2 
+93,0 Nostalgie 
+93,5 Nostalgie 
+94,0 Agora FM 
+94,2 Radio Sportiva
+94,6 Kiss FM
+95,4 Radio Monaco
+96,1 FG
+96,3 France Inter
+96,8 Latina
+97,4 RTL
+97,6 France Culture 
+97,7 RMC 1
+98,5 RMC Info
+98,8 RMC Info 
+99,2 NRJ
+99,6 France Musique
+99,8 Europe 2 
+100,2 France Inter
+100,5 France Bleu (RCFM)
+100,7 France Bleu (Azur)
+101,2 NRJ
+101,4 Europe 1
+101,9 France Culture
+102,7 Radio Classique
+103,0 RFM
+103,2 Radio Monaco
+104,4 BFM
+104,6 RTL
+104,8 Oüi FM
+105,7 France Info
+105,9 France Info
+106,0 France Info
+106,3 Riviera Radio
+106,5 Riviera Radio
+106,8 RMC Info
+107,0 Skyrock
+107,2 Corsica Radio
+107,7 Radio Vinci Autoroutes
+
+--- Liste des radios DAB ---
+
+6C (MCR4)
+8A (MCR1)
+8D (NCE6)
+9A (TLN9A)
+9D (NCE9D)
+11A (NCEETENDU)
+11B (NCE11B)
+11C (NCE11C)
+12B (MCR2)
+
+
